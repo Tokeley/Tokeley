@@ -11,7 +11,7 @@ I am a third-year software engineering student at Victoria University of Welling
 Check out my [coding portfolio (still need to make)!]()
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-manning-7993ab231/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-manning-7993ab231/)
 
 # 💻 Tech Stack:
 Languages: 
@@ -29,4 +29,4 @@ Libraries/Frameworks:
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%230077B5.svg?logo=mongodb&logoColor=green)
+![MongoDB](https://img.shields.io/badge/MongoDB-%230077B5.svg?style=for-the-badge&logo=mongodb&logoColor=green)
