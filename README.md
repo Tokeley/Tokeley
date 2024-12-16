@@ -8,7 +8,7 @@ I am a third-year software engineering student at Victoria University of Welling
 - 🤖 Exploring ML by learning how to train an LLM with my own journal entries with [Brev.dev](brev.dev)
 - 💻 Learning the MERN stack by building a soundscape generator web app called [TheZenZone](https://www.thezenzone.app/) (check out its repo below!)
 
-Check out my [coding portfolio (still need to make)!]()
+Check out my [coding portfolio (currently being made)](https://github.com/Tokeley/portfolio-website)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-manning-7993ab231/)
