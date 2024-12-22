@@ -6,7 +6,7 @@ I am a third-year software engineering student at Victoria University of Welling
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring ML by learning how to train an LLM with my own journal entries with [Brev.dev](brev.dev)
-- 💻 Learning the MERN stack by building a soundscape generator web app called [TheZenZone](https://www.thezenzone.app/) (check out its repo below!)
+- 💻 Creating my brand spanking new [Portfolio Website](https://github.com/Tokeley/the-zen-zone-client)
 
 Check out my [coding portfolio (currently being made)](https://github.com/Tokeley/portfolio-website)
 
