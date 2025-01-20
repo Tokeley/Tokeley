@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Alex (Tokeley) Manning</h1>
 
 # 💫 About Me:
-I am a fourth-year software engineering student at Victoria University of Wellington, passionate about exploring the realms of coding, machine learning, and building useful applications.
+I am a fourth-year software engineering student at Victoria University of Wellington, who is passionate about crafting accessible and robust applications that solve problems and provide genuine value to the user.
 
 ## 🚀 What I'm Up To
 
