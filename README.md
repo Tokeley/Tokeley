@@ -3,13 +3,6 @@
 # 💫 About Me:
 I am a fourth-year software engineering student at Victoria University of Wellington, who is passionate about crafting accessible and robust applications that solve problems and provide genuine value to the user.
 
-## 🚀 What I'm Up To
-
-- 🤖 Exploring ML by learning how to train an LLM with my own journal entries with [Brev.dev](brev.dev)
-- 💻 Creating my brand spanking new [Portfolio Website](https://portfolio-website-green-tau.vercel.app/)
-
-Check out my [coding portfolio (currently being made)](https://github.com/Tokeley/portfolio-website)
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-manning-7993ab231/)
 
