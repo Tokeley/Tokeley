@@ -3,6 +3,8 @@
 # 💫 About Me:
 I am a fourth-year software engineering student at Victoria University of Wellington, who is passionate about crafting accessible and robust applications that solve problems and provide genuine value to the user.
 
+Currently, for my capstone project I am creating MEAP (Mechatronic Ensemble Arrangement and Performance), a system designed to bridge the gap between musicians and mechatronic musical instruments. It will provide a user-friendly interface for controlling mechatronic ensembles through digital audio workstations (DAWs), making it easier for musicians to explore the creative possibilities of these instruments. Check out its progress on the [MEAP Log](https://meap-log.vercel.app/)
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-manning-7993ab231/)
 
