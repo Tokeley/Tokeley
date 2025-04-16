@@ -7,6 +7,7 @@ Currently, for my capstone project I am creating MEAP (Mechatronic Ensemble Arra
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-manning-7993ab231/)
+[![alexmanning.dev](https://img.shields.io/badge/alexmanning.dev-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alexmanning.dev/)
 
 # 💻 Tech Stack:
 Languages: 
