@@ -5,6 +5,8 @@ I am a fourth-year software engineering student at Victoria University of Wellin
 
 Currently, for my capstone project I am creating MEAP (Mechatronic Ensemble Arrangement and Performance), a system designed to bridge the gap between musicians and mechatronic musical instruments. It will provide a user-friendly interface for controlling mechatronic ensembles through digital audio workstations (DAWs), making it easier for musicians to explore the creative possibilities of these instruments. Check out its progress on the [MEAP Log](https://meap-log.vercel.app/)
 
+Also check out my latest side project: [Snipify!](https://snipifyclient.vercel.app/) This is a web app that lets users add and remove tracks from their Spotify playlists by swipping left and right on them (like Tinder) while streaming the track as well. I utilised the Spotify API to achieve this. 
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-manning-7993ab231/)
 [![alexmanning.dev](https://img.shields.io/badge/alexmanning.dev-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alexmanning.dev/)
